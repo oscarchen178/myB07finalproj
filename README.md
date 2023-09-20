@@ -1,1 +1,1 @@
-# myB07finalproj
+My CSCB07 final group project.

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">cscb07Final</string>
+    <string name="login_name">Name</string>
+    <string name="login_password">Password</string>
+    <string name="login_bt">Login</string>
+    <string name="register_bt">Register</string>
+    <string name="start_shopping">Start Shopping !</string>
+    <string name="view_cart">View my cart</string>
+    <string name="manage_item">Manage Store Items</string>
+    <string name="view_store_order">View Store Orders</string>
+    <string name="add_item_bt">Add an item</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_price">Price: e.g. 5.29</string>
+    <string name="item_desciption">Brand</string>
+    <string name="back">Back</string>
+    <string name="atc_bt">Add to Cart</string>
+    <string name="place_order_bt">Place Order</string>
+    <string name="view_my_orders">View My Orders</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="Owner">Owner</string>
+    <string name="Customer">Customer</string>
+    <string-array name="register_spinner">
+        <item>@string/Owner</item>
+        <item>@string/Customer</item>
+    </string-array>
+
+    <string name="store_name">Store Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address_line1">Address Line</string>
+
+
+    <string name="postal_code">Postal Code/ZIP</string>
+    <string name="country">Country</string>
+    <string name="mcdonalds">Marpole McDonald\'s</string>
+    <string name="_1234_granville_st">1234 Granville St</string>
+    <string name="_604_681_1111">604–681–1111</string>
+    <string name="vancouver">Vancouver</string>
+    <string name="bc">BC</string>
+    <string name="v6p_2h6">V6P 2H6</string>
+    <string name="unit_1011">Unit 1011</string>
+    <string name="done">DONE</string>
+    <string-array name="Country">
+        <item name="canada">Canada</item>
+        <item name="usa">United States of America</item>
+    </string-array>
+    <string name="logout">Logout</string>
+    <string name="account_deletion">Delete Account</string>
+    <string name="name">Name</string>
+    <string name="describe">Describe</string>
+    <string name="hello_user">Hello User</string>
+    <string name="location">Location</string>
+</resources>
